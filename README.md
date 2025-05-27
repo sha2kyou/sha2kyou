@@ -1,16 +1,16 @@
-# Hi, I'm sha2ku! 👋
+# Hi, I'm sha2kyou! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=sha2ku&color=blue)
 
 ## 🛠️ 主要项目
 
-- [**scriptable-app-price-monitor**](https://github.com/sha2ku/scriptable-app-price-monitor)  
+- [**scriptable-app-price-monitor**](https://github.com/sha2kyou/scriptable-app-price-monitor)  
   使用 Scriptable 实现的 App 价格监控工具，自动跟踪 App Store 价格变动，适合自动化和信息收集爱好者。  
-  `JavaScript` | [MIT License](https://github.com/sha2ku/scriptable-app-price-monitor/blob/main/LICENSE)
+  `JavaScript` | [MIT License](https://github.com/sha2kyou/scriptable-app-price-monitor/blob/main/LICENSE)
 
-- [**pokemon-zsh-script**](https://github.com/sha2ku/pokemon-zsh-script)  
+- [**pokemon-zsh-script**](https://github.com/sha2kyou/pokemon-zsh-script)  
   宝可梦主题的 zsh 脚本，为你的终端增添趣味与个性。  
-  `Shell` | [MIT License](https://github.com/sha2ku/pokemon-zsh-script/blob/main/LICENSE)
+  `Shell` | [MIT License](https://github.com/sha2kyou/pokemon-zsh-script/blob/main/LICENSE)
 
 ## 🌱 关于我
 
@@ -25,5 +25,5 @@
 
 > “代码让生活更有趣。”
 
-![sha2ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=sha2ku&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha2ku&layout=compact&theme=radical)
+![sha2ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=sha2kyou&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha2kyou&layout=compact&theme=radical)
