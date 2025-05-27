@@ -19,7 +19,7 @@
 
 ## 📫 联系方式
 
-- GitHub: [sha2ku](https://github.com/sha2ku)
+- GitHub: [sha2kyou](https://github.com/sha2kyou)
 
 ---
 
