@@ -12,6 +12,10 @@
   宝可梦主题的 zsh 脚本，为你的终端增添趣味与个性。  
   `Shell` | [MIT License](https://github.com/sha2kyou/pokemon-zsh-script/blob/main/LICENSE)
 
+- [**v2ex-filter**](https://github.com/sha2kyou/v2ex-filter)  
+  使用 AI（百炼 AI）根据用户定义的标准过滤 V2EX 话题。  
+  `JavaScript` | [MIT License](https://github.com/sha2kyou/v2ex-filter/blob/main/LICENSE)
+
 ## 🌱 关于我
 
 - 喜欢自动化、终端工具和新奇的编程项目
