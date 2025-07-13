@@ -28,6 +28,3 @@
 ---
 
 > “代码让生活更有趣。”
-
-![sha2ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=sha2kyou&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha2kyou&layout=compact&theme=radical)
