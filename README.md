@@ -12,9 +12,11 @@
   宝可梦主题的 zsh 脚本，为你的终端增添趣味与个性。  
   `Shell` | [MIT License](https://github.com/sha2kyou/pokemon-zsh-script/blob/main/LICENSE)
 
-- [**v2ex-filter**](https://github.com/sha2kyou/v2ex-filter)  
-  使用 AI（百炼 AI）根据用户定义的标准过滤 V2EX 话题。  
-  `JavaScript` | [MIT License](https://github.com/sha2kyou/v2ex-filter/blob/main/LICENSE)
+- [**SharkTimeline**](https://github.com/sha2kyou/SharkTimeline)
+  这是一个用于管理和显示时间线事件的 macOS 应用程序。
+
+ 
+  `Swift` | [MIT License](https://github.com/sha2kyou/SharkTimeline/blob/main/LICENSE)
 
 ## 🌱 关于我
 
