@@ -5,7 +5,7 @@
 ## 🛠️ 主要项目
 
 - [**SideCalendar**](https://github.com/sha2kyou/SideCalendar)  
-  这是一个用于显示日历日程时间线事件的 macOS 应用程序。  
+  SideCalendar是一款 macOS 菜单栏应用程序，将来自各种来源（日历、提醒事项、RSS、GitHub 等）的事件和信息统一到一个动态屏幕边缘信息流中。    
   `Swift` | [Apache-2.0 License](https://github.com/sha2kyou/SideCalendar/blob/main/LICENSE)
   
 - [**scriptable-app-price-monitor**](https://github.com/sha2kyou/scriptable-app-price-monitor)  
