@@ -6,7 +6,7 @@
 
 - [**SideCalendar**](https://github.com/sha2kyou/SideCalendar)  
   SideCalendar是一款 macOS 菜单栏应用程序，将来自各种来源（日历、提醒事项、RSS、GitHub 等）的事件和信息统一到一个动态屏幕边缘信息流中。    
-  `Swift` | [Apache-2.0 License](https://github.com/sha2kyou/SideCalendar/blob/main/LICENSE)
+  `Swift` | [Close Source](https://apps.apple.com/cn/app/sidecalendar/id6751482006?mt=12)
   
 - [**scriptable-app-price-monitor**](https://github.com/sha2kyou/scriptable-app-price-monitor)  
   使用 Scriptable 实现的 App 价格监控工具，自动跟踪 App Store 价格变动，适合自动化和信息收集爱好者。  
