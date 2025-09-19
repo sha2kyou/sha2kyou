@@ -2,6 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sha2ku&color=blue)
 
+![sha2kyou 的 GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=sha2kyou&show_icons=true&theme=transparent)
+
 ## 主要项目
 
 - [**SideCalendar**](https://github.com/sha2kyou/SideCalendar)  
