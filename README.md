@@ -6,7 +6,7 @@
 
 ## 主要项目
 
-- [**Sidefy*](https://github.com/sha2kyou/SideCalendar)  
+- [**Sidefy**](https://github.com/sha2kyou/SideCalendar)  
   SideCalendar是一款 macOS 菜单栏应用程序，将来自各种来源（日历、提醒事项、RSS、GitHub 等）的事件和信息统一到一个动态屏幕边缘信息流中。    
   `Swift` | [Close Source](https://apps.apple.com/cn/app/sidecalendar/id6751482006?mt=12)
   
