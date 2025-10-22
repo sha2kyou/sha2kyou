@@ -2,18 +2,18 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sha2ku&color=blue)
 
-![sha2kyou 的 GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=sha2kyou&show_icons=true&theme=transparent)
+![GitHub stats for sha2kyou](https://github-readme-stats.vercel.app/api?username=sha2kyou&show_icons=true&theme=transparent)
 
-## 主要项目
+## Main Projects
 
 - [**Sidefy**](https://github.com/sha2kyou/SideCalendar)  
-  Sidefy 是一款 macOS 菜单栏应用程序，将来自各种来源（日历、提醒事项、RSS、GitHub 等）的事件和信息统一到一个动态屏幕边缘信息流中。    
-  `Swift` | [Close Source](https://apps.apple.com/cn/app/sidecalendar/id6751482006?mt=12)
+  Sidefy is a macOS menu bar application that consolidates events and information from various sources (calendars, reminders, RSS, GitHub, etc.) into a dynamic information stream on the edge of your screen.  
+  `Swift` | [Closed Source](https://apps.apple.com/cn/app/sidecalendar/id6751482006?mt=12)
   
-- [**Sidefy 在线插件仓库**](https://github.com/sha2kyou/SideCalendarPlugins)  
-  适用于 [**Sidefy**](https://github.com/sha2kyou/SideCalendar)  的在线插件仓库。  
+- [**Sidefy Online Plugin Repository**](https://github.com/sha2kyou/SideCalendarPlugins)  
+  An online plugin repository for [**Sidefy**](https://github.com/sha2kyou/SideCalendar)。  
   `JavaScript` | [Apache License](https://github.com/sha2kyou/SideCalendarPlugins/blob/main/LICENSE)
 
 ---
 
-> “代码让生活更有趣。”
+> "Code makes life more interesting."
