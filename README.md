@@ -8,7 +8,7 @@
 
 - [**Sidefy**](https://github.com/sha2kyou/SideCalendar)  
   Sidefy is a macOS menu bar application that consolidates events and information from various sources (calendars, reminders, RSS, GitHub, etc.) into a dynamic information stream on the edge of your screen.  
-  `Swift` | [Closed Source](https://apps.apple.com/cn/app/sidecalendar/id6751482006?mt=12)
+  `Swift` | [Closed Source](https://apps.apple.com/app/sidecalendar/id6751482006?mt=12)
   
 - [**Sidefy Online Plugin Repository**](https://github.com/sha2kyou/SideCalendarPlugins)  
   An online plugin repository for [**Sidefy**](https://github.com/sha2kyou/SideCalendar)。  
