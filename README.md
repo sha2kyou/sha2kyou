@@ -13,6 +13,11 @@
 - [**Sidefy Online Plugin Repository**](https://github.com/sha2kyou/SideCalendarPlugins)  
   An online plugin repository for [**Sidefy**](https://github.com/sha2kyou/SideCalendar)。  
   `JavaScript` | [Apache License](https://github.com/sha2kyou/SideCalendarPlugins/blob/main/LICENSE)
+  
+- [**Sidefy Ruleset Repository**](https://github.com/sha2kyou/sidefy-ruleset)  
+  A collection of shareable Sidefy rule sets built with SideQL, used to filter, color, highlight, and organize events.  
+  `SideQL` | [Apache License](https://github.com/sha2kyou/sidefy-ruleset/blob/main/LICENSE)
+
 
 ---
 
