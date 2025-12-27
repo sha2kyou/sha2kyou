@@ -1,9 +1,5 @@
 # Hi, I'm sha2kyou! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=sha2ku&color=blue)
-
-![GitHub stats for sha2kyou](https://github-readme-stats.vercel.app/api?username=sha2kyou&show_icons=true&theme=transparent)
-
 ## Main Projects
 
 - [**Sidefy**](https://github.com/sha2kyou/SideCalendar)  
