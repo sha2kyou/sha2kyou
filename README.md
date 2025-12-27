@@ -12,7 +12,7 @@
   
 - [**Sidefy Ruleset Repository**](https://github.com/sha2kyou/sidefy-ruleset)  
   A collection of shareable Sidefy rule sets built with SideQL, used to filter, color, highlight, and organize events.  
-  `SideQL` | [Apache License](https://github.com/sha2kyou/sidefy-ruleset/blob/main/LICENSE)
+  `SideScript` | [Apache License](https://github.com/sha2kyou/sidefy-ruleset/blob/main/LICENSE)
 
 
 ---
