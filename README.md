@@ -2,12 +2,12 @@
 
 ## Main Projects
 
-- [**Sidefy**](https://github.com/sha2kyou/sidefy)  
+- [**Sidefy**](https://github.com/sidefy-team/sidefy)  
   Sidefy is a macOS menu bar application that consolidates events and information from various sources (calendars, reminders, RSS, GitHub, etc.) into a dynamic information stream on the edge of your screen.  
   `Swift` | [Closed Source](https://apps.apple.com/app/sidecalendar/id6751482006?mt=12)
   
 - [**Sidefy Online Plugin Repository**](https://github.com/sidefy-team/sidefy-plugins)  
-  An online plugin repository for [**Sidefy**](https://github.com/sha2kyou/sidefy)。  
+  An online plugin repository for [**Sidefy**](https://github.com/sidefy-team/sidefy)。  
   `JavaScript` | [Apache License](https://github.com/sidefy-team/sidefy-plugins/blob/main/LICENSE)
   
 - [**Sidefy Ruleset Repository**](https://github.com/sidefy-team/sidefy-ruleset)  
