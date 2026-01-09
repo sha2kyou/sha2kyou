@@ -7,7 +7,7 @@
   `Swift` | [Closed Source](https://apps.apple.com/app/sidecalendar/id6751482006?mt=12)
   
 - [**Sidefy Online Plugin Repository**](https://github.com/sidefy-team/sidefy-plugins)  
-  An online plugin repository for [**Sidefy**](https://github.com/sidefy-team/sidefy)。  
+  An online plugin repository for [**Sidefy**](https://github.com/sha2kyou/sidefy)。  
   `JavaScript` | [Apache License](https://github.com/sidefy-team/sidefy-plugins/blob/main/LICENSE)
   
 - [**Sidefy Ruleset Repository**](https://github.com/sidefy-team/sidefy-ruleset)  
