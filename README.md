@@ -1,4 +1,4 @@
-# Hi, I'm sha2kyou! 👋
+# Hi, I'm ØYNN! 👋
 
 ## Main Projects
 
