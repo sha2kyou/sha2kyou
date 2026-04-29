@@ -1,20 +1,9 @@
-# Hi, I'm ØYNN! 👋
+### Hi, I'm ØYNN 👋 · [tr1ck.cn](https://tr1ck.cn)
 
-## Main Projects
+Building **[Sidefy](https://github.com/sidefy-team/sidefy)** — a macOS menu bar app that pulls
+calendars, reminders, RSS, GitHub and more into a live stream on the edge of your screen.
 
-- [**Sidefy**](https://github.com/sidefy-team/sidefy)  
-  Sidefy is a macOS menu bar application that consolidates events and information from various sources (calendars, reminders, RSS, GitHub, etc.) into a dynamic information stream on the edge of your screen.  
-  `Swift` | [Closed Source](https://apps.apple.com/app/sidecalendar/id6751482006?mt=12)
-  
-- [**Sidefy Online Plugin Repository**](https://github.com/sidefy-team/sidefy-plugins)  
-  An online plugin repository for [**Sidefy**](https://github.com/sidefy-team/sidefy)。  
-  `JavaScript` | [Apache License](https://github.com/sidefy-team/sidefy-plugins/blob/main/LICENSE)
-  
-- [**Sidefy Ruleset Repository**](https://github.com/sidefy-team/sidefy-ruleset)  
-  A collection of shareable Sidefy rule sets built with SideQL, used to filter, color, highlight, and organize events.  
-  `SideScript` | [Apache License](https://github.com/sidefy-team/sidefy-ruleset/blob/main/LICENSE)
+Also maintaining an open **[plugin repo](https://github.com/sidefy-team/sidefy-plugins)**
+and a **[ruleset collection](https://github.com/sidefy-team/sidefy-ruleset)** for the community.
 
-
----
-
-> "Code makes life more interesting."
+`Swift` · `JavaScript` · `SideScript`
