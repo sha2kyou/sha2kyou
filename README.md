@@ -1,14 +1,9 @@
 ### Hi, I'm ØYNN 👋 · [tr1ck.cn](https://tr1ck.cn)
 
-Building **[Sidefy](https://github.com/sidefy-team/sidefy)** — a macOS menu bar app that pulls
-calendars, reminders, RSS, GitHub and more into a live stream on the edge of your screen.
+I build small tools that fit in your menu bar and try to stay out of your way.
 
-Also maintaining an open **[plugin repo](https://github.com/sidefy-team/sidefy-plugins)**
-for the community.
-
----
-
-**[ClaudePilot](https://github.com/sha2kyou/ClaudePilot)** — a macOS menu bar app for managing
-multiple Claude API profiles and syncing the active one into Claude CLI settings.
+**[Sidefy](https://github.com/sidefy-team/sidefy)** — a live info stream on the edge of your screen,
+with an open **[plugin repo](https://github.com/sidefy-team/sidefy-plugins)** for the community.  
+**[ClaudePilot](https://github.com/sha2kyou/ClaudePilot)** — manage and switch Claude API profiles from the menu bar.
 
 `Swift` · `JavaScript`
