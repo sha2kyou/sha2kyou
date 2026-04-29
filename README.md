@@ -4,7 +4,7 @@ Building **[Sidefy](https://github.com/sidefy-team/sidefy)** — a macOS menu ba
 calendars, reminders, RSS, GitHub and more into a live stream on the edge of your screen.
 
 Also maintaining an open **[plugin repo](https://github.com/sidefy-team/sidefy-plugins)**
-and a **[ruleset collection](https://github.com/sidefy-team/sidefy-ruleset)** for the community.
+for the community.
 
 ---
 
