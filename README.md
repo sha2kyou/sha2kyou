@@ -10,8 +10,6 @@ with workspace tools, MCP, memory, and scheduled tasks — all on your machine.
 
 ---
 
-## 🔥 GitHub Streak
-
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sha2kyou&theme=dark&hide_border=true)
@@ -19,8 +17,6 @@ with workspace tools, MCP, memory, and scheduled tasks — all on your machine.
 </div>
 
 ---
-
-## 💼 Tech Stack
 
 <div align="center">
   
