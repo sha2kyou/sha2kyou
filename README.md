@@ -10,13 +10,9 @@ with workspace tools, MCP, memory, and scheduled tasks — all on your machine.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
-  
-  ![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=sha2kyou&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sha2kyou&theme=dark&layout=compact&hide_border=true)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sha2kyou&theme=dark&hide_border=true)
   
@@ -35,13 +31,5 @@ with workspace tools, MCP, memory, and scheduled tasks — all on your machine.
   
   ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat-square)
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=sha2kyou&color=2E9FD8)
   
 </div>
